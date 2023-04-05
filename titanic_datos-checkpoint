@@ -298,18 +298,8 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 1,
-   "id": "38d08aae",
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "from bs4 import BeautifulSoup\n"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 2,
-   "id": "49c16a18",
+   "execution_count": 42,
+   "id": "6dbb5d2f",
    "metadata": {},
    "outputs": [
     {
@@ -341,7 +331,7 @@
     "plt.ylabel('Cantidad de paises')\n",
     "\n",
     "# Mostrar el plot\n",
-    "plt.show()"
+    "plt.show()\n"
    ]
   }
  ],
@@ -362,11 +352,6 @@
    "nbconvert_exporter": "python",
    "pygments_lexer": "ipython3",
    "version": "3.9.13"
-  },
-  "vscode": {
-   "interpreter": {
-    "hash": "ad2bdc8ecc057115af97d19610ffacc2b4e99fae6737bb82f5d7fb13d2f2c186"
-   }
   }
  },
  "nbformat": 4,
